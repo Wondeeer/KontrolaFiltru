@@ -1,0 +1,10 @@
+C:\Users\Wonder\Desktop\Programy\CSharpProgram\KontrolaFiltru\KontrolaFiltru\bin\Debug\KontrolaFiltru.exe.config
+C:\Users\Wonder\Desktop\Programy\CSharpProgram\KontrolaFiltru\KontrolaFiltru\bin\Debug\KontrolaFiltru.exe
+C:\Users\Wonder\Desktop\Programy\CSharpProgram\KontrolaFiltru\KontrolaFiltru\bin\Debug\KontrolaFiltru.pdb
+C:\Users\Wonder\Desktop\Programy\CSharpProgram\KontrolaFiltru\KontrolaFiltru\obj\Debug\KontrolaFiltru.csproj.AssemblyReference.cache
+C:\Users\Wonder\Desktop\Programy\CSharpProgram\KontrolaFiltru\KontrolaFiltru\obj\Debug\KontrolaFiltru.Form1.resources
+C:\Users\Wonder\Desktop\Programy\CSharpProgram\KontrolaFiltru\KontrolaFiltru\obj\Debug\KontrolaFiltru.Properties.Resources.resources
+C:\Users\Wonder\Desktop\Programy\CSharpProgram\KontrolaFiltru\KontrolaFiltru\obj\Debug\KontrolaFiltru.csproj.GenerateResource.cache
+C:\Users\Wonder\Desktop\Programy\CSharpProgram\KontrolaFiltru\KontrolaFiltru\obj\Debug\KontrolaFiltru.csproj.CoreCompileInputs.cache
+C:\Users\Wonder\Desktop\Programy\CSharpProgram\KontrolaFiltru\KontrolaFiltru\obj\Debug\KontrolaFiltru.exe
+C:\Users\Wonder\Desktop\Programy\CSharpProgram\KontrolaFiltru\KontrolaFiltru\obj\Debug\KontrolaFiltru.pdb
